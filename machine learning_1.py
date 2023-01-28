@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 22 02:06:47 2021
 
-@author: rlaqu
-"""
 
 #데이터 처리를 위한 라이브러리
 import pandas as pd
